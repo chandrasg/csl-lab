@@ -1,7 +1,7 @@
 ---
 name: Sharath Guntuku
 image: images/SharathGuntuku.png
-role: Principal Investigator
+role: pi
 links:
   home-page: https://sharathg.cis.upenn.edu/
   email: sharathg@cis.upenn.edu
