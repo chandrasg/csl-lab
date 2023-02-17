@@ -1,17 +1,15 @@
 ---
-name: Anne Chovie
-image: images/member.jpg
-description: Bark Ops Engineer
-role: programmer
-aliases:
-  - A. Chovie
-  - A Chovie
+name: Sharath Guntuku
+image: images/SharathGuntuku.png
+role: Principal Investigator
 links:
-  home-page: annechovie.com
-  email: anne@chovie.com
-  github: anne-chovie
+  home-page: https://sharathg.cis.upenn.edu/
+  email: sharathg@cis.upenn.edu
+  github: [chandrasg](https://github.com/chandrasg)
 ---
 
-Anne is a good dog.
-She studied at the University of Good Dogs.
-She likes pets, walkies, and treats.
+Sharath is an Assistant Professor in the research-track in the Department of Computer and Information Science at the University of Pennsylvania. His research focuses on building predictive models for and uncovering insight into health outcomes and psychological states of individuals and communities. The goal of this research is to supplement clinical diagnoses and facilitate early and personalized interventions for improving treatments and well-being.
+
+His team develops computational models utilizing large-scale user-generated text, image, and mobile sensor data to answer questions pertaining to geospatial, cross-cultural, and temporal aspects of human behavior. His recent work investigates the manifestation of conditions such as loneliness, ADHD, stress, and depression on social media platforms and the role of heterogeneity in the digital behaviors of individuals across cultures.
+
+His work has been covered by the American Psychological Association, WIRED, Canadian Broadcasting Company, The Atlantic, US News, and other venues.
