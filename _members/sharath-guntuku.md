@@ -5,6 +5,7 @@ role: Principal Investigator
 links:
   home-page: https://sharathg.cis.upenn.edu/
   email: sharathg@cis.upenn.edu
+  twitter: sharathguntuku
   github: chandrasg
 ---
 
