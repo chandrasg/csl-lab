@@ -1,7 +1,7 @@
 ---
 name: Lyle Ungar
 image: images/LyleUngar.jpg
-role: Investigator
+role: coi
 links:
   home-page: https://www.cis.upenn.edu/~ungar/
   email: ungar@cis.upenn.edu
