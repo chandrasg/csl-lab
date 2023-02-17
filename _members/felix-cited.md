@@ -1,18 +1,11 @@
 ---
-name: Felix Cited
-image: images/member.jpg
-description: Treat Researcher
-role: phd
-group: alum
-aliases:
-  - F. Cited
-  - F Cited
+name: Lyle Ungar
+image: images/LyleUngar.jpg
+role: Investigator
 links:
-  home-page: felixcited.com
-  email: felix@cited.com
-  twitter: felixcited
+  home-page: https://www.cis.upenn.edu/~ungar/
+  email: ungar@cis.upenn.edu
+  twitter: LyleUngar
 ---
 
-Felix is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Lyle Ungar is a Professor in Computer and Information Science. His research focuses on explainable machine learning, deep learning, and natural language processing methods for psychology and medical research. Applications include the analysis of social media language and cell phone sensor data to better understand the drivers of physical and mental well-being. He, for example, is trying to better measure and understand empathy, stress, life satisfaction and friendship.
