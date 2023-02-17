@@ -1,8 +1,8 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: Computational Social Listening Lab | UPenn
+description: Data Science x Health & Psychology
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
@@ -10,12 +10,10 @@ baseurl: /csl-lab
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: sharathg@cis.upenn.edu
+  google-scholar: 76_hrfUAAAAJ
+  github: chandrasg
+  twitter: sharathguntuku
 
 ### advanced settings
 
