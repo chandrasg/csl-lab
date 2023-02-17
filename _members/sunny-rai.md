@@ -1,7 +1,7 @@
 ---
 name: Sunny Rai
 image: images/sunnyrai.jpg
-role: Postdoctoral Fellow
+role: postdoc
 links:
   website: https://raisunny.com/
   orcid: 0000-0002-0677-3747
