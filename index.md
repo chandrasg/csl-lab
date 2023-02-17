@@ -1,12 +1,13 @@
 ---
-title: Home
+title: CSL Lab | UPenn
+description: Computational Social Listening Lab at UPenn
 ---
 
-# Your Lab Slogan
+# Data Science for Health & Psychology
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+We study individual- and community-level health behaviors across cultures and languages using natural language processing and machine learning methods with a focus on uncovering heterogeneity and disparities.
 
+'''
 {%
   include link.html
   type="github"
@@ -23,6 +24,7 @@ Spend less time reinventing the wheel, and more time running your lab.
   link="https://github.com/greenelab/lab-website-template/wiki"
   style="button"
 %}
+'''
 {:.center}
 
 {% include section.html full=true %}
