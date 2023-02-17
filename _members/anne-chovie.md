@@ -5,7 +5,7 @@ role: Principal Investigator
 links:
   home-page: https://sharathg.cis.upenn.edu/
   email: sharathg@cis.upenn.edu
-  github: [chandrasg](https://github.com/chandrasg)
+  github: chandrasg
 ---
 
 Sharath is an Assistant Professor in the research-track in the Department of Computer and Information Science at the University of Pennsylvania. His research focuses on building predictive models for and uncovering insight into health outcomes and psychological states of individuals and communities. The goal of this research is to supplement clinical diagnoses and facilitate early and personalized interventions for improving treatments and well-being.
