@@ -7,10 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our lab members come from several schools at Penn: Engineering, Wharton, and Medicine. We tackle interdisciplinary problems and strive to promotes respect, equity, and diversity. The team includes investigators, postdocs, staff, students at PhD, Masters, and Undergraduate levels. 
 
 {% include section.html %}
 
@@ -36,8 +33,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We have multiple RA positions available for undergrad and graduate students already enrolled at UPenn on applying natural language and image processing to health, especially but not limited to – global mental health, vaccine acceptance, and firearms safety. If you’re interested send me an email with your CV and Academic Transcript at sharathg at cis dot upenn dot edu. 
 
 {% include section.html %}
 
@@ -45,13 +41,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 #### Post Dogtoral Researcher
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We have an opening for a postdoc position at the intersection of CS x Psychology. The position is for a 1 year term with the possibility to renew it. 
 
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
-
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
+{% include link.html type="external" link="https://bit.ly/penn_postdoc_css" text="Apply Now" icon="" style="button" %}
 {:.center}
 
 {% include section.html %}
@@ -65,27 +57,16 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
+  image1="images/nimhd.png"
+  link1="https://reporter.nih.gov/search/xr8dfej1VEKkBA8K5-mxBQ/project-details/10630593"
   tooltip1="Cool Foundation"
 
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
+  image2="images/pennglobal.jpeg"
+  link2="https://blog.seas.upenn.edu/sharath-guntuku-receives-penn-global-grant-to-continue-vaccine-attitudes-research-in-india/"
   tooltip2="Cool Institute"
 
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
+  image3="images/wbg.jpeg"
+  link3="https://documents1.worldbank.org/curated/en/099125001262248277/pdf/P1770020efdd8702708f9d0c44309d295c4.pdf"
   tooltip3="Cool Initiative"
-
-  image4="images/photo.jpg"
-  link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
-
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
-
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
+ 
 %}
