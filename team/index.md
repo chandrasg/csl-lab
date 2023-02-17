@@ -21,13 +21,13 @@ Our lab members come from several schools at Penn: Engineering, Wharton, and Med
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd"
+  filters="role: coi"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: postdoc"
 %}
 {:.center}
 
