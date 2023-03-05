@@ -39,7 +39,7 @@ We have multiple RA positions available for undergrad and graduate students alre
 
 ## Join
 
-#### Post Dogtoral Researcher
+#### Post Doctoral Researcher
 
 We have an opening for a postdoc position at the intersection of CS x Psychology. The position is for a 1 year term with the possibility to renew it. 
 
