@@ -96,7 +96,6 @@ Our work is made possible by funding from several organizations.
 
 {%
   include gallery.html
-  style="square"
 
   image1="images/nimhd.png"
   link1="https://reporter.nih.gov/search/xr8dfej1VEKkBA8K5-mxBQ/project-details/10630593"
