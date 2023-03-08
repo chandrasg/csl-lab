@@ -14,9 +14,17 @@ phd:
   icon: fas fa-graduation-cap
   text: PhD Student
 
+masters:
+  icon: fas fa-user-graduate
+  text: Master's Student
+
 undergrad:
   icon: fas fa-user-graduate
   text: Undergraduate Student
+
+visit-student:
+  icon: fas fa-user-graduate
+  text: Visiting Student
 
 programmer:
   icon: fas fa-code

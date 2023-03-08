@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 3
+  order: 4
   tooltip: About our team
 ---
 
@@ -28,6 +28,30 @@ Our lab members come from several schools at Penn: Engineering, Wharton, and Med
   data="members"
   component="portrait"
   filters="role: postdoc"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: phd"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: masters"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: undergrad"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: visit-student"
 %}
 {:.center}
 

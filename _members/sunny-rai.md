@@ -1,11 +1,13 @@
 ---
 name: Sunny Rai
-image: images/sunnyrai.jpg
+image: images/sunnyrai.png
 role: postdoc
 links:
-  website: https://raisunny.com/
   orcid: 0000-0002-0677-3747
+  home-page: raisunny.com
   email: sunnyrai@seas.upenn.edu
+  google-scholar: C-gi0v8AAAAJ&hl=en
+  twitter: sny_rai
 ---
 
-Sunny Rai is a Postdoctoral Fellow in the Department of Computer and Information Science at University of Pennsylvania. She is an Assistant Professor (on leave) in the Department of Computer Science and Engineering at Mahindra University, Hyderabad. She received her Ph.D. from Faculty of Technology, University of Delhi, India. She is a member of IEEE, Association for Computing Machinery (ACM) and Association of Computational Linguistics (ACL). Her area of interest includes Natural Language Processing and Computational Social Science. Her research has been published in top journals and conferences (ACM Computing Surveys, The Computer Journal, Meta4NLP(NAACL-HLT), IC2S2, IJCRS). She has reviewed for top-tier journals including Natural Language Engineering, Neurocomputing (Elsevier), IEEE Access, Computer Applications for Engineering Education (Wiley), and A* conferences including EACL, AACL and EMNLP.
+Sunny Rai is a Postdoctoral Research Fellow in the Department of Computer and Information Science at University of Pennsylvania. Before joining UPenn, she completed her PhD from University of Delhi, India. She designs computational methods to (a) process creative constructs in human language, (b) acquire socio-cultural world knowledge from human language, and (c) study heterogeneity and extract actionable insights from large-scale behavioral data for AI in Healthcare.
