@@ -59,17 +59,9 @@ Our lab members come from several schools at Penn: Engineering, Wharton, and Med
   component="portrait"
   filters="role: project-manager"
 %}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: alumni"
-%}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
-
-{% include section.html %}
 
 ## Join
 
@@ -84,7 +76,21 @@ We have an opening for a postdoc position at the intersection of CS x Psychology
 
 {% include section.html %}
 
-## Funding
+# Alumni
+These are past lab members who have moved on to other school programs, new jobs, or elsewhere.
+
+{% include section.html %}
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: alumni"
+%}
+
+{:.center}
+
+# Funding
 
 Our work is made possible by funding from several organizations.
 {:.center}
