@@ -1,7 +1,8 @@
 ---
 name: Agrima Seth
 image: images/AgrimaSeth.jpg
-role: alumni
+role: masters
+group: alum
 links:
   orcid: 0000-0001-8547-6304
   home-page: https://agrimaseth.github.io/

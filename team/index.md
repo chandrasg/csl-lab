@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 5
+  order: 3
   tooltip: About our team
 ---
 
@@ -15,49 +15,49 @@ Our lab members come from several schools at Penn: Engineering, Wharton, and Med
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi"
+  filters="role: pi, group: "
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: coi"
+  filters="role: coi, group: "
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: postdoc"
+  filters="role: postdoc, group: "
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd"
+  filters="role: phd, group: "
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: masters"
+  filters="role: masters, group: "
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: undergrad"
+  filters="role: undergrad, group: "
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: visit-student"
+  filters="role: visit-student, group: "
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: project-manager"
+  filters="role: project-manager, group: "
 %}
 {:.center}
 
@@ -83,7 +83,8 @@ These are past lab members who have moved on to other school programs, new jobs,
   include list.html
   data="members"
   component="portrait"
-  filters="role: alumni"
+  filters="role: masters, group: alum"
+  style="small"
 %}
 {:.center}
 

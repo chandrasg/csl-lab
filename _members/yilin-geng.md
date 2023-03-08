@@ -1,7 +1,8 @@
 ---
 name: Yilin Geng
 image: images/YilinGeng.jpg
-role: alumni
+role: masters
+group: alum
 links:
   orcid: 0000-0002-1461-6696
   email: link10@alumni.upenn.edu

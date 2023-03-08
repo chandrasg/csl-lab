@@ -1,7 +1,8 @@
 ---
 name: Yuchen Zhang
 image: images/YuchenZhang.jpeg
-role: alumni
+role: masters
+group: alum
 links:
   email: alicezhang727@gmail.com
   github: zycalice

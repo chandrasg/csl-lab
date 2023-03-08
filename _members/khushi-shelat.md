@@ -1,6 +1,6 @@
 ---
 name: Khushi Shelat
-image: images/KhushiShelat.jpeg
+image: images/KhushiShelat.png
 role: undergrad
 links:
   home-page: khushishleat.com

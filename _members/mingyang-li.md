@@ -1,7 +1,8 @@
 ---
 name: Mingyang Li
 image: images/MingyangLi.jpg
-role: alumni
+role: masters
+group: alum
 links:
   orcid: 0000-0002-8344-8462
   home-page: https://myli.page

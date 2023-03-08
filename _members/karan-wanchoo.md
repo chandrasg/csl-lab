@@ -1,7 +1,8 @@
 ---
 name: Karan Wanchoo
 image: images/KaranWanchoo.jpg
-role: alumni
+role: masters
+group: alum
 links:
   orcid: 0000-0001-7427-6040
   home-page: https://wanchoo93.github.io/
