@@ -15,15 +15,15 @@ phd:
   text: PhD Student
 
 masters:
-  icon: fas fa-user-graduate
+  icon: fas fa-book-reader
   text: Master's Student
 
 undergrad:
-  icon: fas fa-user-graduate
+  icon: fas fa-school
   text: Undergraduate Student
 
 visit-student:
-  icon: fas fa-user-graduate
+  icon: fas fa-laptop-code
   text: Visiting Student
 
 alumni:
@@ -31,7 +31,7 @@ alumni:
   text: Alumni
 
 project-manager:
-  icon: fa-solid fa-people-roof
+  icon: fas fa-clipboard-list
   text: Project Manager
 
 programmer:
