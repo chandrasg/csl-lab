@@ -7,7 +7,7 @@ links:
   home-page: https://www.cis.upenn.edu/~ungar/
   email: ungar@cis.upenn.edu
   google-scholar: KCiDjbkAAAAJ&hl=en
-  github: https://github.com/wwbp
+  github: wwbp
   twitter: LyleUngar
 ---
 

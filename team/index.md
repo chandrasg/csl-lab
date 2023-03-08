@@ -53,6 +53,18 @@ Our lab members come from several schools at Penn: Engineering, Wharton, and Med
   component="portrait"
   filters="role: visit-student"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: project-manager"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: alumni"
+%}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
@@ -83,14 +95,14 @@ Our work is made possible by funding from several organizations.
 
   image1="images/nimhd.png"
   link1="https://reporter.nih.gov/search/xr8dfej1VEKkBA8K5-mxBQ/project-details/10630593"
-  tooltip1="Cool Foundation"
+  tooltip1="National Institute on Minority Health and Health Disparities"
 
   image2="images/pennglobal.jpeg"
   link2="https://blog.seas.upenn.edu/sharath-guntuku-receives-penn-global-grant-to-continue-vaccine-attitudes-research-in-india/"
-  tooltip2="Cool Institute"
+  tooltip2="Penn Global"
 
   image3="images/wbg.jpeg"
   link3="https://documents1.worldbank.org/curated/en/099125001262248277/pdf/P1770020efdd8702708f9d0c44309d295c4.pdf"
-  tooltip3="Cool Initiative"
+  tooltip3="World Bank Group"
  
 %}

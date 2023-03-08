@@ -1,6 +1,6 @@
 ---
 name: Devansh Jain
-image: images/devanshjain.jpeg
+image: images/DevanshJain.jpg
 role: visit-student
 links:
   orcid: 0000-0002-1461-6696

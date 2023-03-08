@@ -11,7 +11,7 @@ postdoc:
   text: Postdoctoral Researcher
 
 phd:
-  icon: fas fa-graduation-cap
+  icon: fas fa-user-graduate
   text: PhD Student
 
 masters:
@@ -25,6 +25,14 @@ undergrad:
 visit-student:
   icon: fas fa-user-graduate
   text: Visiting Student
+
+alumni:
+  icon: fas fa-graduation-cap
+  text: Alumni
+
+project-manager:
+  icon: fa-solid fa-people-roof
+  text: Project Manager
 
 programmer:
   icon: fas fa-code

@@ -3,6 +3,7 @@ name: Sharath Guntuku
 image: images/SharathGuntuku.png
 role: pi
 links:
+  orcid: 0000-0002-2929-0035
   home-page: https://sharathg.cis.upenn.edu/
   email: sharathg@cis.upenn.edu
   google-scholar: 76_hrfUAAAAJ&hl=en
