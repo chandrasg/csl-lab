@@ -1,6 +1,6 @@
 ---
 name: Sunny Rai
-image: images/SunnyRai.png
+image: images/DevanshJain.png
 role: postdoc
 links:
   orcid: 0000-0002-0677-3747
