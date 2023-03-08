@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 4
+  order: 5
   tooltip: About our team
 ---
 
@@ -79,16 +79,15 @@ We have an opening for a postdoc position at the intersection of CS x Psychology
 # Alumni
 These are past lab members who have moved on to other school programs, new jobs, or elsewhere.
 
-{% include section.html %}
-
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: alumni"
 %}
-
 {:.center}
+
+{% include section.html %}
 
 # Funding
 
