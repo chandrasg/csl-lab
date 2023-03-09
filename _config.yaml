@@ -26,6 +26,9 @@ auto-cite:
     - name: orcid
       input:
         - ../_data/orcid.yaml
+    - name: google-scholar
+      input:
+        - ../_data/google-scholar.yaml
   output: ../_data/citations.yaml
 
 # default front matter parameters for markdown files
