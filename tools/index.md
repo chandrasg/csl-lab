@@ -22,6 +22,5 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include section.html %}
 
-## More
+<!-- {% include list.html component="card" data="tools" filters="group: more" style="small" %} -->
 
-{% include list.html component="card" data="tools" filters="group: more" style="small" %}
